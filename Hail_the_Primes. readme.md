@@ -1,11 +1,11 @@
-Hail_the_Primes
-Overview
+***Hail_the_Primes***
+*Overview*
 The "Hail_the_Primes" application is a Python program designed to identify prime numbers within a user-specified range. It incorporates functions to determine prime numbers, handle user input for specifying the range, and print the identified prime numbers.
 
-Purpose
+*Purpose*
 The purpose of this program is to provide users with a simple tool to find prime numbers within a given range. Prime numbers have various applications in mathematics, cryptography, and computer science, making it useful to have a tool to quickly identify them.
 
-Functionality
+*Functionality*
 1. Prime Number Identification
 The program utilizes the am_i_prime function to check whether a given number is prime. It iterates through the numbers in the specified range and appends prime numbers to a list.
 

@@ -1,4 +1,4 @@
-***Hail_the_Primes***<br><br>
+# Hail_the_Primes<br><br>
 *Overview:*<br>
 The "Hail_the_Primes" application is a Python program designed to identify prime numbers within a user-specified range. It incorporates functions to determine prime numbers, handle user input for specifying the range, and print the identified prime numbers.
 
